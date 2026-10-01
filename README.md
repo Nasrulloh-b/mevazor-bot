@@ -2,7 +2,7 @@
 
 A Telegram bot for a small shop that sells dried fruit, nuts, tea and spices by weight. Customers browse the catalog, fill a cart and place orders without leaving Telegram. The owner gets every new order in a private chat, moves it through its statuses with one tap, and the customer is notified at each step.
 
-Built with **Python 3.11+, aiogram 3 and SQLite**. It is the companion to the [Mevazor web store](../mevazor-store) and uses the same catalog and pricing rules.
+Built with **Python 3.11+, aiogram 3 and SQLite**. It is the companion to the [Mevazor web store](../   (https://github.com/Nasrulloh-b/mevazor-store)) and uses the same catalog and pricing rules.
 
 ## Features
 
