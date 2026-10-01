@@ -1,0 +1,669 @@
+{
+  "categories": [
+    {
+      "id": "dried-fruit",
+      "name": {
+        "en": "Dried fruit",
+        "ru": "Сухофрукты"
+      }
+    },
+    {
+      "id": "nuts",
+      "name": {
+        "en": "Nuts & kernels",
+        "ru": "Орехи и ядра"
+      }
+    },
+    {
+      "id": "tea",
+      "name": {
+        "en": "Tea",
+        "ru": "Чай"
+      }
+    },
+    {
+      "id": "sweets",
+      "name": {
+        "en": "Sweets",
+        "ru": "Сладости"
+      }
+    },
+    {
+      "id": "spices",
+      "name": {
+        "en": "Spices",
+        "ru": "Специи"
+      }
+    }
+  ],
+  "cities": [
+    {
+      "en": "Khujand",
+      "ru": "Худжанд"
+    },
+    {
+      "en": "Dushanbe",
+      "ru": "Душанбе"
+    },
+    {
+      "en": "Istaravshan",
+      "ru": "Истаравшан"
+    },
+    {
+      "en": "Isfara",
+      "ru": "Исфара"
+    },
+    {
+      "en": "Tashkent",
+      "ru": "Ташкент"
+    },
+    {
+      "en": "Samarkand",
+      "ru": "Самарканд"
+    },
+    {
+      "en": "Almaty",
+      "ru": "Алматы"
+    },
+    {
+      "en": "Bishkek",
+      "ru": "Бишкек"
+    }
+  ],
+  "products": [
+    {
+      "id": "isfara-apricots",
+      "sku": "DF-APR-01",
+      "name": {
+        "en": "Isfara dried apricots",
+        "ru": "Курага из Исфары"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Isfara, Tajikistan",
+        "ru": "Исфара, Таджикистан"
+      },
+      "description": {
+        "en": "Pitted apricots from the Isfara orchards, dried in the shade so they keep their color without sulfur.",
+        "ru": "Курага без косточки из садов Исфары. Сушится в тени и сохраняет цвет без обработки серой."
+      },
+      "notes": {
+        "en": "Honey, tart finish, soft and chewy",
+        "ru": "Мёд, кисловатое послевкусие, мягкая"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 450
+        },
+        {
+          "grams": 500,
+          "priceCents": 840
+        },
+        {
+          "grams": 1000,
+          "priceCents": 1590
+        }
+      ],
+      "stockGrams": 42000,
+      "reorderGrams": 10000
+    },
+    {
+      "id": "whole-apricots",
+      "sku": "DF-APR-02",
+      "name": {
+        "en": "Sun-dried whole apricots",
+        "ru": "Урюк с косточкой"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Khujand, Tajikistan",
+        "ru": "Худжанд, Таджикистан"
+      },
+      "description": {
+        "en": "Small apricots dried whole on the tree and on rooftops, stone left in. The traditional kind for compote.",
+        "ru": "Мелкий урюк, высушенный целиком на солнце, с косточкой. Классика для компота."
+      },
+      "notes": {
+        "en": "Deep caramel, firm bite",
+        "ru": "Глубокая карамель, плотная текстура"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 320
+        },
+        {
+          "grams": 500,
+          "priceCents": 590
+        }
+      ],
+      "stockGrams": 6500,
+      "reorderGrams": 8000
+    },
+    {
+      "id": "golden-raisins",
+      "sku": "DF-RAI-01",
+      "name": {
+        "en": "Golden raisins",
+        "ru": "Кишмиш золотистый"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Istaravshan, Tajikistan",
+        "ru": "Истаравшан, Таджикистан"
+      },
+      "description": {
+        "en": "Seedless green grapes dried into large, bright raisins. Good for plov, baking and snacking.",
+        "ru": "Крупный светлый изюм из зелёного винограда без косточек. Для плова, выпечки и просто так."
+      },
+      "notes": {
+        "en": "Bright, sweet, a little floral",
+        "ru": "Яркий, сладкий, с цветочной ноткой"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 290
+        },
+        {
+          "grams": 500,
+          "priceCents": 540
+        },
+        {
+          "grams": 1000,
+          "priceCents": 990
+        }
+      ],
+      "stockGrams": 38000,
+      "reorderGrams": 8000
+    },
+    {
+      "id": "black-raisins",
+      "sku": "DF-RAI-02",
+      "name": {
+        "en": "Black raisins",
+        "ru": "Изюм чёрный"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Fergana Valley",
+        "ru": "Ферганская долина"
+      },
+      "description": {
+        "en": "Dark raisins from late-harvest grapes, sun-dried on the vine.",
+        "ru": "Тёмный изюм из винограда позднего сбора, высушенный на лозе."
+      },
+      "notes": {
+        "en": "Blackcurrant, molasses",
+        "ru": "Чёрная смородина, патока"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 270
+        },
+        {
+          "grams": 500,
+          "priceCents": 490
+        }
+      ],
+      "stockGrams": 21000,
+      "reorderGrams": 6000
+    },
+    {
+      "id": "dried-figs",
+      "sku": "DF-FIG-01",
+      "name": {
+        "en": "Dried figs",
+        "ru": "Инжир сушёный"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Penjikent, Tajikistan",
+        "ru": "Пенджикент, Таджикистан"
+      },
+      "description": {
+        "en": "Whole figs from the Zarafshan valley, pressed flat and dried slowly.",
+        "ru": "Цельный инжир из долины Зеравшана, приплюснутый и медленно высушенный."
+      },
+      "notes": {
+        "en": "Jammy, crunchy seeds",
+        "ru": "Джемовый, с хрустящими семечками"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 520
+        },
+        {
+          "grams": 500,
+          "priceCents": 980
+        }
+      ],
+      "stockGrams": 9000,
+      "reorderGrams": 6000
+    },
+    {
+      "id": "white-mulberries",
+      "sku": "DF-MUL-01",
+      "name": {
+        "en": "White mulberries",
+        "ru": "Тутовник белый"
+      },
+      "category": "dried-fruit",
+      "origin": {
+        "en": "Khujand, Tajikistan",
+        "ru": "Худжанд, Таджикистан"
+      },
+      "description": {
+        "en": "Dried white mulberries, known locally as tut. Eaten with green tea instead of sugar.",
+        "ru": "Сушёный белый тутовник. Его едят с зелёным чаем вместо сахара."
+      },
+      "notes": {
+        "en": "Fig-like, malty, crisp",
+        "ru": "Похож на инжир, солодовый, хрустящий"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 380
+        },
+        {
+          "grams": 500,
+          "priceCents": 720
+        }
+      ],
+      "stockGrams": 15500,
+      "reorderGrams": 5000
+    },
+    {
+      "id": "kanibadam-almonds",
+      "sku": "NT-ALM-01",
+      "name": {
+        "en": "Kanibadam almonds",
+        "ru": "Миндаль канибадамский"
+      },
+      "category": "nuts",
+      "origin": {
+        "en": "Kanibadam, Tajikistan",
+        "ru": "Канибадам, Таджикистан"
+      },
+      "description": {
+        "en": "Raw shelled almonds from the town whose name means \"mine of almonds\".",
+        "ru": "Сырой очищенный миндаль из города, чьё название значит «рудник миндаля»."
+      },
+      "notes": {
+        "en": "Milky, marzipan, clean finish",
+        "ru": "Молочный, марципан, чистое послевкусие"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 590
+        },
+        {
+          "grams": 500,
+          "priceCents": 1120
+        },
+        {
+          "grams": 1000,
+          "priceCents": 2150
+        }
+      ],
+      "stockGrams": 18000,
+      "reorderGrams": 6000
+    },
+    {
+      "id": "walnut-halves",
+      "sku": "NT-WAL-01",
+      "name": {
+        "en": "Walnut halves",
+        "ru": "Грецкий орех, половинки"
+      },
+      "category": "nuts",
+      "origin": {
+        "en": "Istaravshan, Tajikistan",
+        "ru": "Истаравшан, Таджикистан"
+      },
+      "description": {
+        "en": "Light walnut halves, cracked by hand so most stay whole.",
+        "ru": "Светлые половинки грецкого ореха, колотые вручную, поэтому почти все целые."
+      },
+      "notes": {
+        "en": "Buttery, mild tannin",
+        "ru": "Маслянистый, лёгкая терпкость"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 480
+        },
+        {
+          "grams": 500,
+          "priceCents": 920
+        },
+        {
+          "grams": 1000,
+          "priceCents": 1740
+        }
+      ],
+      "stockGrams": 0,
+      "reorderGrams": 8000
+    },
+    {
+      "id": "roasted-pistachios",
+      "sku": "NT-PIS-01",
+      "name": {
+        "en": "Roasted pistachios",
+        "ru": "Фисташки жареные"
+      },
+      "category": "nuts",
+      "origin": {
+        "en": "Fergana Valley",
+        "ru": "Ферганская долина"
+      },
+      "description": {
+        "en": "In-shell pistachios roasted with sea salt and a squeeze of lemon.",
+        "ru": "Фисташки в скорлупе, обжаренные с морской солью и лимонным соком."
+      },
+      "notes": {
+        "en": "Salty, toasted, green",
+        "ru": "Солёные, поджаристые, свежие"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 740
+        },
+        {
+          "grams": 500,
+          "priceCents": 1420
+        }
+      ],
+      "stockGrams": 12500,
+      "reorderGrams": 4000
+    },
+    {
+      "id": "apricot-kernels",
+      "sku": "NT-KER-01",
+      "name": {
+        "en": "Roasted apricot kernels",
+        "ru": "Абрикосовые ядра жареные"
+      },
+      "category": "nuts",
+      "origin": {
+        "en": "Isfara, Tajikistan",
+        "ru": "Исфара, Таджикистан"
+      },
+      "description": {
+        "en": "Sweet apricot kernels roasted in salted ash, the way they are sold at Panjshanbe bazaar.",
+        "ru": "Сладкие абрикосовые косточки, обжаренные в солёной золе, как на базаре Панчшанбе."
+      },
+      "notes": {
+        "en": "Almond-like, smoky, salty",
+        "ru": "Как миндаль, дымные, солёные"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 410
+        }
+      ],
+      "stockGrams": 4000,
+      "reorderGrams": 5000
+    },
+    {
+      "id": "green-tea-95",
+      "sku": "TE-GRN-95",
+      "name": {
+        "en": "Green tea No. 95",
+        "ru": "Зелёный чай № 95"
+      },
+      "category": "tea",
+      "origin": {
+        "en": "Fujian, China",
+        "ru": "Фуцзянь, Китай"
+      },
+      "description": {
+        "en": "The everyday green tea of every chaikhana. Long twisted leaves that stand up to many infusions.",
+        "ru": "Повседневный зелёный чай любой чайханы. Длинный скрученный лист выдерживает много заварок."
+      },
+      "notes": {
+        "en": "Toasted grain, light bitterness",
+        "ru": "Поджаренное зерно, лёгкая горчинка"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 350
+        },
+        {
+          "grams": 250,
+          "priceCents": 790
+        }
+      ],
+      "stockGrams": 9000,
+      "reorderGrams": 3000
+    },
+    {
+      "id": "black-tea-thyme",
+      "sku": "TE-BLK-02",
+      "name": {
+        "en": "Black tea with thyme",
+        "ru": "Чёрный чай с чабрецом"
+      },
+      "category": "tea",
+      "origin": {
+        "en": "Assam blend, packed in Khujand",
+        "ru": "Ассам, фасовка в Худжанде"
+      },
+      "description": {
+        "en": "Strong black tea blended with mountain thyme. Takes milk well.",
+        "ru": "Крепкий чёрный чай с горным чабрецом. Хорош с молоком."
+      },
+      "notes": {
+        "en": "Malty, herbal, brisk",
+        "ru": "Солодовый, травяной, бодрящий"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 320
+        },
+        {
+          "grams": 250,
+          "priceCents": 720
+        }
+      ],
+      "stockGrams": 7000,
+      "reorderGrams": 3000
+    },
+    {
+      "id": "mountain-herb-tea",
+      "sku": "TE-HRB-01",
+      "name": {
+        "en": "Mountain herb tea",
+        "ru": "Горный травяной чай"
+      },
+      "category": "tea",
+      "origin": {
+        "en": "Zarafshan range, Tajikistan",
+        "ru": "Зеравшанский хребет, Таджикистан"
+      },
+      "description": {
+        "en": "Caffeine-free blend of wild thyme, mint and rosehip picked above 2,000 m.",
+        "ru": "Сбор без кофеина: дикий чабрец, мята и шиповник, собранные выше 2000 м."
+      },
+      "notes": {
+        "en": "Minty, tart rosehip",
+        "ru": "Мятный, кислинка шиповника"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 440
+        }
+      ],
+      "stockGrams": 2600,
+      "reorderGrams": 3000
+    },
+    {
+      "id": "nabot",
+      "sku": "SW-NAB-01",
+      "name": {
+        "en": "Nabot crystal sugar",
+        "ru": "Набот"
+      },
+      "category": "sweets",
+      "origin": {
+        "en": "Khujand, Tajikistan",
+        "ru": "Худжанд, Таджикистан"
+      },
+      "description": {
+        "en": "Large sugar crystals grown on cotton thread. Served with tea and given to guests.",
+        "ru": "Крупные кристаллы сахара, выращенные на нити. Подают к чаю и гостям."
+      },
+      "notes": {
+        "en": "Clean sweetness, slow to melt",
+        "ru": "Чистая сладость, тает медленно"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 220
+        },
+        {
+          "grams": 500,
+          "priceCents": 390
+        }
+      ],
+      "stockGrams": 30000,
+      "reorderGrams": 6000
+    },
+    {
+      "id": "pistachio-halva",
+      "sku": "SW-HAL-01",
+      "name": {
+        "en": "Pistachio halva",
+        "ru": "Халва с фисташками"
+      },
+      "category": "sweets",
+      "origin": {
+        "en": "Istaravshan, Tajikistan",
+        "ru": "Истаравшан, Таджикистан"
+      },
+      "description": {
+        "en": "Sesame halva folded with whole pistachios, cut from the block when you order.",
+        "ru": "Кунжутная халва с целыми фисташками, нарезается от блока под заказ."
+      },
+      "notes": {
+        "en": "Nutty, flaky, not too sweet",
+        "ru": "Ореховая, слоистая, не приторная"
+      },
+      "packs": [
+        {
+          "grams": 250,
+          "priceCents": 380
+        },
+        {
+          "grams": 500,
+          "priceCents": 710
+        }
+      ],
+      "stockGrams": 14000,
+      "reorderGrams": 4000
+    },
+    {
+      "id": "black-cumin",
+      "sku": "SP-ZIR-01",
+      "name": {
+        "en": "Zira (black cumin)",
+        "ru": "Зира чёрная"
+      },
+      "category": "spices",
+      "origin": {
+        "en": "Zarafshan valley, Tajikistan",
+        "ru": "Долина Зеравшана, Таджикистан"
+      },
+      "description": {
+        "en": "Wild mountain cumin, the seed that makes plov smell like plov.",
+        "ru": "Дикая горная зира, без которой плов не пахнет пловом."
+      },
+      "notes": {
+        "en": "Earthy, warm, peppery",
+        "ru": "Землистая, тёплая, перечная"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 260
+        },
+        {
+          "grams": 250,
+          "priceCents": 590
+        }
+      ],
+      "stockGrams": 11000,
+      "reorderGrams": 3000
+    },
+    {
+      "id": "plov-spice-mix",
+      "sku": "SP-MIX-01",
+      "name": {
+        "en": "Plov spice mix",
+        "ru": "Приправа для плова"
+      },
+      "category": "spices",
+      "origin": {
+        "en": "Mixed in Khujand",
+        "ru": "Смешано в Худжанде"
+      },
+      "description": {
+        "en": "Zira, coriander, barberry and dried chili in the proportions a home cook would use.",
+        "ru": "Зира, кориандр, барбарис и сушёный перец в домашних пропорциях."
+      },
+      "notes": {
+        "en": "Warm, tangy, gentle heat",
+        "ru": "Тёплая, с кислинкой, мягкая острота"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 290
+        }
+      ],
+      "stockGrams": 6000,
+      "reorderGrams": 2000
+    },
+    {
+      "id": "barberry",
+      "sku": "SP-BAR-01",
+      "name": {
+        "en": "Dried barberry",
+        "ru": "Барбарис сушёный"
+      },
+      "category": "spices",
+      "origin": {
+        "en": "Samarkand region, Uzbekistan",
+        "ru": "Самаркандская область, Узбекистан"
+      },
+      "description": {
+        "en": "Tart red barberries for plov, rice dishes and marinades.",
+        "ru": "Кислые красные ягоды барбариса для плова, риса и маринадов."
+      },
+      "notes": {
+        "en": "Sour, bright, fruity",
+        "ru": "Кислый, яркий, фруктовый"
+      },
+      "packs": [
+        {
+          "grams": 100,
+          "priceCents": 240
+        }
+      ],
+      "stockGrams": 5200,
+      "reorderGrams": 2000
+    }
+  ]
+}
